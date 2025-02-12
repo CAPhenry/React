@@ -25,7 +25,7 @@ function TaskPage(){
 
 
 
-        <div className="w-[500p] space-y-4">
+        <div className="w-[500p] mx-auto space-y-4">
 
             <div className="flex justify-center relative"> 
 
