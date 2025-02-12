@@ -55,8 +55,7 @@ function App() {
         <Title>Gerenciador de tarefas</Title>
         <AddTasks onAddTaskSubmit={onAddTaskSubmit} />
         <Tasks tasks={task} onTaskClick={onTaskClick}  onDeleteTask={onDeleteTask}/>
-      </div>
-    </div>
+      </div> </div>
   );
 }
 export default App;
